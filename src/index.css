@@ -1,3 +1,4 @@
+* {box-sizing: border-box;}
 body {
   margin: 0;
   padding: 0;
@@ -11,4 +12,48 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+
+
+.flex {display: flex;}
+.flex-column {flex-direction: column}
+.flex-wrap {flex-wrap: wrap;}
+.justify-center {justify-content: center;}
+.justify-start {justify-content: flex-start;}
+.justify-end {justify-content: flex-end;}
+.justify-space-around {justify-content: space-around;}
+.justify-space-between {justify-content: space-between;}
+.align-center {align-items: center;}
+.align-start {align-items: flex-start;}
+.align-end {align-items: flex-end;}
+
+
+
+/* POSITION */
+.relative {position: relative;}
+.absolute {position: absolute;}
+.sticky {position: sticky;}
+
+
+/* FULLBOX */
+.full {width: 100%; height: 100%;}
+
+/* CENTER IN ABSOLUTE */
+.ab-center {top: 50%; left: 50%; transform: translate(-50%, -50%);}
+
+
+/* font */
+.t-center {
+  text-align: center;
+}
+
+.heavy {
+  font-weight: bold;
+  font-size: 1.4em;
+}
+
+.title {
+  margin: 2em auto;
+  text-transform: uppercase;
 }
