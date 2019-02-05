@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f44bb28dab0d8bcbd8c1",
+    "revision": "feed5ce8548295a88df9",
     "url": "/laodianwei/static/css/main.5418e57b.chunk.css"
   },
   {
-    "revision": "f44bb28dab0d8bcbd8c1",
-    "url": "/laodianwei/static/js/main.f44bb28d.chunk.js"
+    "revision": "feed5ce8548295a88df9",
+    "url": "/laodianwei/static/js/main.feed5ce8.chunk.js"
   },
   {
     "revision": "66b18a28a929145434b8",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/laodianwei/static/js/runtime~main.4bcfdda8.js"
   },
   {
-    "revision": "7a638cb9a9a492573d0efb620dac75b4",
+    "revision": "0fdeb307d642a1e449563f9505d45b4e",
     "url": "/laodianwei/index.html"
   }
 ];
