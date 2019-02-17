@@ -1,13 +1,13 @@
 {
-  "main.css": "/laodianwei/static/css/main.2c33b4e2.chunk.css",
-  "main.js": "/laodianwei/static/js/main.7b209373.chunk.js",
-  "main.js.map": "/laodianwei/static/js/main.7b209373.chunk.js.map",
-  "static/js/1.d37f24cd.chunk.js": "/laodianwei/static/js/1.d37f24cd.chunk.js",
-  "static/js/1.d37f24cd.chunk.js.map": "/laodianwei/static/js/1.d37f24cd.chunk.js.map",
+  "main.css": "/laodianwei/static/css/main.d8f3afcc.chunk.css",
+  "main.js": "/laodianwei/static/js/main.824b22ac.chunk.js",
+  "main.js.map": "/laodianwei/static/js/main.824b22ac.chunk.js.map",
+  "static/js/1.0419bee1.chunk.js": "/laodianwei/static/js/1.0419bee1.chunk.js",
+  "static/js/1.0419bee1.chunk.js.map": "/laodianwei/static/js/1.0419bee1.chunk.js.map",
   "runtime~main.js": "/laodianwei/static/js/runtime~main.4bcfdda8.js",
   "runtime~main.js.map": "/laodianwei/static/js/runtime~main.4bcfdda8.js.map",
-  "static/css/main.2c33b4e2.chunk.css.map": "/laodianwei/static/css/main.2c33b4e2.chunk.css.map",
+  "static/css/main.d8f3afcc.chunk.css.map": "/laodianwei/static/css/main.d8f3afcc.chunk.css.map",
   "index.html": "/laodianwei/index.html",
-  "precache-manifest.0a041e53db31bf4937d774c16dd0e3d3.js": "/laodianwei/precache-manifest.0a041e53db31bf4937d774c16dd0e3d3.js",
+  "precache-manifest.43131267dbea15ce4ff80b25fe6cf07d.js": "/laodianwei/precache-manifest.43131267dbea15ce4ff80b25fe6cf07d.js",
   "service-worker.js": "/laodianwei/service-worker.js"
 }
